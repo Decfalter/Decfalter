@@ -21,4 +21,4 @@
     <img align="center"  alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-Meu nome é Brian Muniz, estreei nesta vida de Desenvolvedor Web em 2021 venho me aprofundando nesta área desde então. Também sou entusiasta de Cubo Mágico, a cada dia mais me torno um Speedcuber, mais rápido e mais eficiente, realmente gosto de fazer isto.
+"Comece onde você esta, use oque você tem, faça o que puder" -Arthur Ashe
