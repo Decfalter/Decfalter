@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Brian Muniz 🖐️
 
-"Comece onde você esta, use oque você tem, faça o que puder" - Arthur Ashe
+"Comece onde você está, use o que você tem, faça o que puder" - Arthur Ashe
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zw4396/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxlfylxrd/)
